@@ -18,3 +18,7 @@ Retro sprites with pixel art.
 
 ## Technologies
 HTML5, CSS3, JavaScript, Phaser.
+
+# Play the game
+
+https://crossing-game.vercel.app/
